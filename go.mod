@@ -10,10 +10,7 @@ require (
 	github.com/Azure/go-autorest/autorest/adal v0.9.14
 	github.com/Azure/go-autorest/autorest/to v0.4.0
 	github.com/akamai/AkamaiOPEN-edgegrid-golang v1.0.0
-	github.com/alecthomas/assert v0.0.0-20170929043011-405dbfeb8e38 // indirect
-	github.com/alecthomas/colour v0.1.0 // indirect
-	github.com/alecthomas/kingpin v2.2.5+incompatible
-	github.com/alecthomas/repr v0.0.0-20200325044227-4184120f674c // indirect
+	github.com/alecthomas/kingpin v2.2.6+incompatible
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.357
 	github.com/aws/aws-sdk-go v1.31.4
 	github.com/bodgit/tsig v0.0.2
